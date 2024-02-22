@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\bin\Debug\net6.0-windows\Invoicetoal.exe
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\bin\Debug\net6.0-windows\Invoicetoal.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\bin\Debug\net6.0-windows\Invoicetoal.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\bin\Debug\net6.0-windows\Invoicetoal.dll
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\bin\Debug\net6.0-windows\Invoicetoal.pdb
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal2.frmtotal.resources
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.dll
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\refint\Invoicetoal.dll
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.pdb
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\Invoicetoal.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 04\Project 01 - InvoiceTotal\InvoiceTotal\obj\Debug\net6.0-windows\ref\Invoicetoal.dll

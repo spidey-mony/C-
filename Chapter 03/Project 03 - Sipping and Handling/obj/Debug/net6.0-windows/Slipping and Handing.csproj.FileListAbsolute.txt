@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.exe
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.deps.json
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.runtimeconfig.json
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping_and_Handing.frmSlippingAndHandling.resources
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\refint\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Chapter 03\Slipping and Handing\obj\Debug\net6.0-windows\ref\Slipping and Handing.dll

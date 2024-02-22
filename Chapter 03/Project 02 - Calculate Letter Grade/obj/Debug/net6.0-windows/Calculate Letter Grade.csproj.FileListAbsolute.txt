@@ -1,0 +1,82 @@
+C:\Users\User\Desktop\C#\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\User\Desktop\C#\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\User\Desktop\C#\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\User\Desktop\C#\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.frmCalLetter.resources
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.frmCalLetter.resources
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\chaper 03\Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.frmCalculaterLetterGrade.resources
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Chapter 03\Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.frmCalculaterLetterGrade.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.frmCalculaterLetterGrade.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 02 - Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll

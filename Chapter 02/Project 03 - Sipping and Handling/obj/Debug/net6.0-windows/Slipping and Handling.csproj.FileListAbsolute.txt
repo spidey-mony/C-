@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handling.exe
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handling.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handling.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handling.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handling.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\refint\Slipping and Handling.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handling.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\ref\Slipping and Handling.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping_and_Handing.frmSippingAndHandling.resources

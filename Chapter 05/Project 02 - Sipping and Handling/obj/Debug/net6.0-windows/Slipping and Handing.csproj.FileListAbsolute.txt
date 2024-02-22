@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.exe
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.deps.json
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.runtimeconfig.json
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\bin\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping_and_Handing.frmSlippingAndHandling.resources
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\refint\Slipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\Slipping and Handing.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Chapter 02\Slipping and Handing\obj\Debug\net6.0-windows\ref\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.exe
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping_and_Handing.frmSlippingAndHandling.resources
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\refint\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\ref\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.exe
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\bin\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping_and_Handing.frmSlippingAndHandling.resources
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\refint\Slipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping and Handing.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 05\Project 02 - Sipping and Handling\obj\Debug\net6.0-windows\ref\Slipping and Handing.dll

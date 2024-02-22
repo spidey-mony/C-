@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\bin\Debug\net6.0-windows\Shipping and Handing.exe
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\bin\Debug\net6.0-windows\Shipping and Handing.deps.json
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\bin\Debug\net6.0-windows\Shipping and Handing.runtimeconfig.json
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\bin\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\bin\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Slipping_and_Handing.frmShippingAndHandling.resources
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\refint\Shipping and Handing.dll
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\Shipping and Handing.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Chapter 03\Project 03 Shpping and Handing\Shipping and Handing\obj\Debug\net6.0-windows\ref\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Slipping_and_Handing.frmShippingAndHandling.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\refint\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\Sipping and Handling\obj\Debug\net6.0-windows\ref\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\bin\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Slipping_and_Handing.frmShippingAndHandling.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\refint\Shipping and Handing.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\Shipping and Handing.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 03 - Sipping and Handling\obj\Debug\net6.0-windows\ref\Shipping and Handing.dll

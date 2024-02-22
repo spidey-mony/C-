@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\C#\Student Population\bin\Debug\net6.0-windows\Student Population.exe
+C:\Users\User\Desktop\C#\Student Population\bin\Debug\net6.0-windows\Student Population.deps.json
+C:\Users\User\Desktop\C#\Student Population\bin\Debug\net6.0-windows\Student Population.runtimeconfig.json
+C:\Users\User\Desktop\C#\Student Population\bin\Debug\net6.0-windows\Student Population.dll
+C:\Users\User\Desktop\C#\Student Population\bin\Debug\net6.0-windows\Student Population.pdb
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student_Population.FrmStudentPopulation.resources
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.dll
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\refint\Student Population.dll
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.pdb
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\Student Population.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Student Population\obj\Debug\net6.0-windows\ref\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\bin\Debug\net6.0-windows\Student Population.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\bin\Debug\net6.0-windows\Student Population.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\bin\Debug\net6.0-windows\Student Population.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\bin\Debug\net6.0-windows\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\bin\Debug\net6.0-windows\Student Population.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student_Population.FrmStudentPopulation.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\refint\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\Student Population.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\Student Population\obj\Debug\net6.0-windows\ref\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\bin\Debug\net6.0-windows\Student Population.exe
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\bin\Debug\net6.0-windows\Student Population.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\bin\Debug\net6.0-windows\Student Population.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\bin\Debug\net6.0-windows\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\bin\Debug\net6.0-windows\Student Population.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student_Population.FrmStudentPopulation.resources
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\refint\Student Population.dll
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.pdb
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\Student Population.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 03\Project 04 - Student Population\obj\Debug\net6.0-windows\ref\Student Population.dll

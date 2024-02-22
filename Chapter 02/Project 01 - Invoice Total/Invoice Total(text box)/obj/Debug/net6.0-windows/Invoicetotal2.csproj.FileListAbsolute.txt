@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\bin\Debug\net6.0-windows\Invoicetotal2.exe
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\bin\Debug\net6.0-windows\Invoicetotal2.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\bin\Debug\net6.0-windows\Invoicetotal2.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\bin\Debug\net6.0-windows\Invoicetotal2.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\bin\Debug\net6.0-windows\Invoicetotal2.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetoal2.frmtotal2.resources
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\refint\Invoicetotal2.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\Invoicetotal2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(text box)\obj\Debug\net6.0-windows\ref\Invoicetotal2.dll

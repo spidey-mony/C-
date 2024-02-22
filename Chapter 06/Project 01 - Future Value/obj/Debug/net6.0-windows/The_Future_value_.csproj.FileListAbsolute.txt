@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\The_Future_value_\bin\Debug\net6.0-windows\The_Future_value_.exe
+C:\Users\User\Desktop\C#\The_Future_value_\bin\Debug\net6.0-windows\The_Future_value_.deps.json
+C:\Users\User\Desktop\C#\The_Future_value_\bin\Debug\net6.0-windows\The_Future_value_.runtimeconfig.json
+C:\Users\User\Desktop\C#\The_Future_value_\bin\Debug\net6.0-windows\The_Future_value_.dll
+C:\Users\User\Desktop\C#\The_Future_value_\bin\Debug\net6.0-windows\The_Future_value_.pdb
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.FrmFuture_V.resources
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.dll
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\refint\The_Future_value_.dll
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.pdb
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\The_Future_value_.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\The_Future_value_\obj\Debug\net6.0-windows\ref\The_Future_value_.dll

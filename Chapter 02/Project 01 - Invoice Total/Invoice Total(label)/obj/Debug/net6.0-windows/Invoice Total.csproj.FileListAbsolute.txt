@@ -1,0 +1,70 @@
+C:\Users\User\Desktop\C#\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.exe
+C:\Users\User\Desktop\C#\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.deps.json
+C:\Users\User\Desktop\C#\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\User\Desktop\C#\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\User\Desktop\C#\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\refint\Invoice Total.dll
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\ref\Invoice Total.dll
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.frminvoice.resources
+C:\Users\User\Desktop\C#\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.exe
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.deps.json
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.frminvoiceTotal.resources
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\refint\Invoice Total.dll
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Chapter 02\Project 01 Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\ref\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.exe
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.frminvoiceTotal.resources
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\refint\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\Invoice Total\obj\Debug\net6.0-windows\ref\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\bin\Debug\net6.0-windows\Invoice Total.exe
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\bin\Debug\net6.0-windows\Invoice Total.deps.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\bin\Debug\net6.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\bin\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\bin\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice_Total.frminvoiceTotal.resources
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice_Total.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.sourcelink.json
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\refint\Invoice Total.dll
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Chapter 02\Project 01 - Invoice Total\Invoice Total(label)\obj\Debug\net6.0-windows\ref\Invoice Total.dll

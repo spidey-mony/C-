@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\C#\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.exe
+C:\Users\User\Desktop\C#\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.deps.json
+C:\Users\User\Desktop\C#\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.runtimeconfig.json
+C:\Users\User\Desktop\C#\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.pdb
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.frmtotal2.resources
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\refint\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.pdb
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Invoicetoal2\obj\Debug\net6.0-windows\ref\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.exe
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.deps.json
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.runtimeconfig.json
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\bin\Debug\net6.0-windows\Invoicetoal2.pdb
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.frmtotal2.resources
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\refint\Invoicetoal2.dll
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.pdb
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\Invoicetoal2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\chaper 03\Invoicetoal2\obj\Debug\net6.0-windows\ref\Invoicetoal2.dll
